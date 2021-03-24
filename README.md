@@ -27,7 +27,7 @@ Fill: none<br>
 Stroke: green
 
 ## Modelo:
-O modelo final está disponível na pasta `./design`
+Os modelos individuais estão disponíveis na pasta `./design`
 
 ## Faces:
 Para construir as faces é recomendado utilizar a tag de html polygon
